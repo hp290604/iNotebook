@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yahoo Finance",
+      "title": "Jobless claims hit highest level since August - Yahoo Finance",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9qb2JsZXNzLWNsYWltcy1oaXQtaGlnaGVzdC1sZXZlbC1zaW5jZS1hdWd1c3QtMTQxMDUxNjA0Lmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T14:10:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC.com",
+      "title": "France fire: Children among 7 dead in suspected arson attack in Nice - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNTF5anBtazcwZ2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzUxeWpwbWs3MGdvLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T13:24:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Engadget",
+      "title": "Amazon Prime Day Apple deals on AirPods, MacBooks, iPads and more that are still available today - Engadget",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5lbmdhZGdldC5jb20vYW1hem9uLXByaW1lLWRheS1hcHBsZS1kZWFscy1vbi1haXJwb2RzLW1hY2Jvb2tzLWlwYWRzLWFuZC1tb3JlLXRoYXQtYXJlLXN0aWxsLWF2YWlsYWJsZS10b2RheS0wNzI4NTg2NjUuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T13:04:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "What to Know About California’s Covid Surge - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTgvdXMvY2FsaWZvcm5pYS1jb3ZpZC1zdXJnZS5odG1s0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T13:00:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN",
+      "title": "Video: Dr. Gupta highlights something to watch out for with Biden’s Covid diagnosis - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xOC9oZWFsdGgvdmlkZW8vcHJlc2lkZW50LWpvZS1iaWRlbi1jb3ZpZC1kaWFnbm9zaXMtZ3VwdGEtZGlndmlk0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T12:34:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "New York Post ",
+      "title": "Frustrated Caitlin Clark slams water bottle in tense moment during Fever loss - New York Post ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzE4L3Nwb3J0cy9mcnVzdHJhdGVkLWNhaXRsaW4tY2xhcmstc2xhbXMtd2F0ZXItaW4tdGVuc2UtbW9tZW50LWluLWZldmVyLWxvc3Mv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T12:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NPR",
+      "title": "Closer look at J.D. Vance's RNC speech. And, Biden tests positive for COVID - NPR",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xOC9nLXMxLTExODAwL3VwLWZpcnN0LW5ld3NsZXR0ZXItamQtdmFuY2Utcm5jLXNwZWVjaC10YWtlYXdheXMtYmlkZW4tdGVzdHMtcG9zaXRpdmUtZm9yLWNvdmlk0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T12:25:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "KABC-TV",
+      "title": "'July 13 will be my premiere,' Trump rally gunman said on gaming platform before shooting: Sources - KABC-TV",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYWJjNy5jb20vcG9zdC9qdWx5LTEzLXdpbGwtcHJlbWllcmUtdGhvbWFzLW1hdHRoZXctY3Jvb2tzLXRydW1wLzE1MDY3NzE1L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T12:23:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Reuters",
+      "title": "How Iran's Khamenei elevated a little-known moderate to the presidency - Reuters",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2hvdy1pcmFucy1raGFtZW5laS1lbGV2YXRlZC1saXR0bGUta25vd24tbW9kZXJhdGUtcHJlc2lkZW5jeS0yMDI0LTA3LTE4L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T12:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "SamMobile - Samsung news",
+      "title": "3 reasons why I ditched my Galaxy S23 Ultra for Galaxy Z Fold 6 - SamMobile - Samsung news",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnNhbW1vYmlsZS5jb20vbmV3cy8zLXJlYXNvbnMtd2h5LWktZGl0Y2hlZC1teS1nYWxheHktczIzLXVsdHJhLWZvci1nYWxheHktei1mb2xkLTYv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T11:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Associated Press",
+      "title": "European leaders discuss migration and Ukraine at a UK summit amid worries about Trump - The Associated Press",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2V1cm9wZWFuLXBvbGl0aWNhbC1jb21tdW5pdHktc3VtbWl0LXVrLWJsZW5oZWltLXN0YXJtZXItOTk4ZTI1MmQ3ZjE0ZjgxOWIzOTU3MzZhYzgwZmY5N2XSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T10:55:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Wall Street Journal",
+      "title": "TSMC Raises Outlook as Profit Beats Estimates on Surging Chip Demand - The Wall Street Journal",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvZWFybmluZ3MvdHNtYy1wb3N0cy1zdHJvbmdlci1zZWNvbmQtcXVhcnRlci1wcm9maXQtb24tY2hpcC1kZW1hbmQtZDI0ZThmNznSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T10:31:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NBC News",
+      "title": "What scientists know about bird flu symptoms from the first 9 U.S. human cases - NBC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL2hlYWx0aC9oZWFsdGgtbmV3cy9iaXJkLWZsdS1jYXNlcy11cy1zeW1wdG9tcy13aGF0LXNjaWVudGlzdHMta25vdy1yY25hMTYxOTUx0gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE2MTk1MQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T10:30:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNBC",
+      "title": "Can Boeing get back to its glory days? - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMTgvYm9laW5nLXBhdGgtZm9yd2FyZC5odG1s0gE8aHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDcvMTgvYm9laW5nLXBhdGgtZm9yd2FyZC5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T10:00:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Hill",
+      "title": "Trump ear bandages to MAGA dresses: Fashion at the RNC - The Hill",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvNDc3NzU2My10cnVtcC1lYXItYmFuZGFnZXMtdG8tbWFnYS1kcmVzc2VzLWZhc2hpb24tYXQtdGhlLXJuYy_SAV9odHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzLzQ3Nzc1NjMtdHJ1bXAtZWFyLWJhbmRhZ2VzLXRvLW1hZ2EtZHJlc3Nlcy1mYXNoaW9uLWF0LXRoZS1ybmMvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T10:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CBS Sports",
+      "title": "2024 British Open leaderboard: Live coverage, Tiger Woods score, golf scores today in Round 1 at Royal Troon - CBS Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXRpZ2VyLXdvb2RzLXNjb3JlLWdvbGYtc2NvcmVzLXRvZGF5LWluLXJvdW5kLTEtYXQtcm95YWwtdHJvb24vbGl2ZS_SAZcBaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9nb2xmL25ld3MvMjAyNC1icml0aXNoLW9wZW4tbGVhZGVyYm9hcmQtbGl2ZS1jb3ZlcmFnZS10aWdlci13b29kcy1zY29yZS1nb2xmLXNjb3Jlcy10b2RheS1pbi1yb3VuZC0xLWF0LXJveWFsLXRyb29uL2xpdmUvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T09:49:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC.com",
+      "title": "'A changed community': Fear and anger spread after Trump shooting - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcHYzNHp3NTFwcG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3B2MzR6dzUxcHBvLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T09:29:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NBC News",
+      "title": "In states with strict abortion policies, simply seeing an OB/GYN for regular care can be difficult - NBC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL2hlYWx0aC9oZWFsdGgtbmV3cy9zdGF0ZXMtc3RyaWN0LWFib3J0aW9uLXBvbGljaWVzLXNpbXBseS1zZWVpbmctb2JneW4tcmVndWxhci1jYXJlLWNhbi1kLXJjbmExNjIzMDDSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYyMzAw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T09:00:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "POLITICO",
+      "title": "Fiery private chats reveal how deeply Biden has divided Dem delegates - POLITICO",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTcvY2FsaWZvcm5pYS1kZW1vY3JhdGljLWRlbGVnYXRlcy1wcml2YXRlLWNoYXRzLWJpZGVuLTAwMTY5MjEw0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T09:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NPR",
+      "title": "A scientist took a psychedelic drug — and watched his own brain 'fall apart' - NPR",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5ucHIub3JnL3NlY3Rpb25zL3Nob3RzLWhlYWx0aC1uZXdzLzIwMjQvMDcvMTgvZy1zMS0xMTUwMS9wc2lsb2N5YmluLXBzeWNoZWRlbGljLWRydWctYnJhaW4tcGxhc3RpY2l0eS1kZXByZXNzaW9uLWFkZGljdGlvbtIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T09:00:00Z",
+      "content": null
+    }
+  ]
+}
